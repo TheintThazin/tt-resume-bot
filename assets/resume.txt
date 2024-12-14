@@ -1,142 +1,74 @@
-John Doe
-Software Engineer
-📍 123 Tech Street, San Francisco, CA 94107
-☎️ (123) 456-7890
-✉️ john.doe@email.com
-LinkedIn | GitHub
-Visa Status: Full working rights in the US without Visa sponsorship
+THEINT THAZIN
 
-Professional Summary
-Innovative and results-driven Software Engineer with 5+ years of experience in developing and delivering high-quality web and mobile applications. Adept at full-stack development, cloud computing, and DevOps practices, with a proven ability to lead cross-functional teams in Agile environments. Passionate about building scalable and efficient solutions that solve real-world problems and enhance user experiences. Recognized for excellent problem-solving skills and a commitment to continuous learning.
+SUMMARY
+A freelance STEM educator with extensive experience teaching science, programming, embedded systems, and robotics to kids and teens. A passionate maker and robotics enthusiast with a strong background in academic projects related to embedded systems and IoT.
 
-Technical Skills
+EXPERIENCE
 
-    Programming Languages: Python, JavaScript, TypeScript, Java, C++, SQL, Go
+Maker Space Incharge
+American Center Yangon(2022 – Present)
 
-    Frameworks & Libraries: React, Angular, Node.js, Express.js, Django, Flask, Spring Boot
+Manage the Maker Space, facilitating the use of modern tools and resources for projects in robotics, electronics, 3D printing, and prototyping.
 
-    DevOps & Cloud: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Kubernetes, Terraform, CI/CD pipelines
+Provide technical support and mentoring to participants on various STEM-related projects.
 
-    Databases: MySQL, PostgreSQL, MongoDB, Redis
+Instructor – Maker Workshop Series
+American Center Yangon(2019 – Present)
 
-    Tools & Platforms: Git, JIRA, Jenkins, VS Code, IntelliJ IDEA, Elasticsearch, Prometheus
+Led hands-on sessions in Arduino, Raspberry Pi, robotics, and programming.
 
-Professional Experience
+Engaged participants in practical STEM applications, fostering creativity and problem-solving skills.
 
-Senior Software Engineer
-NextGen Tech Solutions — San Francisco, CA
-March 2022 – Present
+Freelance STEM Educator(2019 – Present)
 
-    Architected and developed scalable microservices, improving application performance by 40%.
+Delivered over 4 years of teaching experience in STEM, specializing in physical computing, programming, and robotics.
 
-    Designed and implemented GraphQL APIs to enhance data query efficiency and flexibility.
+Designed and facilitated hands-on lessons to inspire creativity and critical thinking in young learners.
 
-    Migrated on-premises applications to AWS, leveraging cloud-native solutions to reduce operational costs by 25%.
+Mentor – Maker Mentoring Programs
+K-Lab, University of Information Technology(2018)
 
-    Led a team of five developers to successfully deliver a cross-platform mobile application for a high-profile client.
+Guided participants in hands-on maker challenges, focusing on creativity and problem-solving.
 
-    Conducted technical interviews and mentored junior engineers to foster team growth.
+Provided technical support and mentorship to enhance participants’ learning experiences.
 
-Key Achievements:
+Maker Space Associate (Intern)
+Phandeer(2016)
 
-    Reduced system downtime by implementing proactive monitoring tools and incident response workflows.
+Assisted with daily Maker Space operations, providing equipment support and project guidance.
 
-    Received the "Innovator of the Year" award for introducing a predictive analytics feature that boosted customer retention.
+Supported the organization of maker events and workshops.
 
-Software Engineer
-Tech Innovations Inc. — San Francisco, CA
-March 2020 – February 2022
+EDUCATION
 
-    Developed and maintained full-stack applications, enhancing system performance by 30%.
+Master of Engineering (CEIT)Yangon Technological University(2017 – 2020)
 
-    Integrated third-party APIs, including payment gateways and geolocation services, to expand application capabilities.
+Bachelor of Engineering (IT)West Yangon Technological University(2011 – 2016)
 
-    Led the migration of legacy systems to microservices, reducing deployment time by 40%.
+CERTIFICATIONS
 
-    Collaborated with designers and product managers to deliver user-focused solutions.
+Certificate in Child Psychology
 
-Key Achievements:
+Certificate in Educational Psychology
 
-    Spearheaded the creation of a real-time analytics dashboard, increasing user engagement by 25%.
+SKILLS
 
-    Named "Employee of the Quarter" for exceptional contributions to critical project launches.
+Robotics: Arduino, Raspberry Pi, LEGO Mindstorms
 
-Junior Software Developer
-Innovate Solutions — Palo Alto, CA
-July 2018 – February 2020
+Programming: Python, C++, Scratch
 
-    Assisted in developing responsive web applications using React and Node.js.
+Prototyping: 3D Printing, IoT, Embedded Systems
 
-    Conducted code reviews and implemented unit testing frameworks, reducing bugs by 20%.
+Workshop Facilitation: STEM Curriculum Design, Hands-on Learning
 
-    Optimized database queries and contributed to schema design for improved performance.
+Maker Tools: Laser Cutters, Soldering, CAD Software
 
-Key Achievements:
+INTERESTS
 
-    Reduced system downtime by 15% through proactive monitoring and efficient issue resolution.
+Robotics and IoT
 
-Education
-Bachelor of Science in Computer Science
-University of California, Berkeley — Graduated: May 2018
+Creative problem-solving
 
-    Relevant Coursework: Data Structures & Algorithms, Software Engineering, Cloud Computing, Artificial Intelligence
+STEM education innovation
 
-    GPA: 3.8
-
-Certifications
-
-    AWS Certified Solutions Architect – Associate
-
-    Certified Kubernetes Administrator (CKA)
-
-    React.js Developer Certification
-
-    Advanced Java Programming Certification
-
-Projects
-
-    E-Commerce Platform (GitHub)
-    Built a full-stack e-commerce website featuring real-time product filtering, user authentication, and payment integration.
-
-    Task Management App (GitHub)
-    Developed a collaborative task management app with React front-end and Node.js back-end.
-
-    Real-Time Chat Application
-    Designed a secure and scalable chat application using WebSocket and Firebase, enabling real-time communication for users.
-
-    IoT Home Automation System
-    Created an IoT-based system to monitor and control home appliances using Python and Raspberry Pi.
-
-Languages
-
-    English: Native
-
-    Spanish: Proficient
-
-    French: Intermediate
-
-    Mandarin: Beginner
-
-Hobbies & Interests
-
-    Contributing to open-source projects
-
-    Exploring AI and machine learning innovations
-
-    Mentoring aspiring developers
-
-    Hiking and outdoor photography
-
-    Playing chess and participating in local tournaments
-
-Awards & Recognitions
-
-    Innovator of the Year – NextGen Tech Solutions (2023)
-
-    Employee of the Quarter – Tech Innovations Inc. (2021)
-
-    Winner – Bay Area Hackathon (2019): Created a predictive analytics tool for the healthcare industry.
-
-    Dean’s Honor List – University of California, Berkeley (2017 & 2018)
-
-
+Maker culture and hands-on learning
