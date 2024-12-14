@@ -1,4 +1,5 @@
 THEINT THAZIN
+LinkedIn - linkedin.com/in/exampleexample
 
 SUMMARY
 A freelance STEM educator with extensive experience teaching science, programming, embedded systems, and robotics to kids and teens. A passionate maker and robotics enthusiast with a strong background in academic projects related to embedded systems and IoT.
